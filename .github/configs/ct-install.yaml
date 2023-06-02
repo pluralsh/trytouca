@@ -3,7 +3,7 @@
 # Only Used for the CT Install Stage
 remote: origin
 chart-dirs:
-  - ops/k8s/helm-chart
+  - ops/k8s
 chart-repos:
   - plural=https://pluralsh.github.io/trytouca
 helm-extra-args: "--timeout 600s"  
