@@ -1,3 +1,28 @@
 apiVersion: v1
-entries: {}
-generated: "2022-01-17T14:55:16.467828556Z"
+entries:
+  touca:
+  - apiVersion: v2
+    appVersion: 2.0.0
+    created: "2023-06-02T16:17:21.272302039Z"
+    description: Continuous regression testing for critical software workflows
+    digest: dd7e74af37a2419bc1feed1539d4c90ccc7876701cd65bba298ad4ca12df4b8e
+    home: https://github.com/trytouca/trytouca
+    icon: https://touca.io/images/touca_logo_bgwt.png
+    keywords:
+    - regression testing
+    - test automation
+    - snapshot testing
+    - software development lifecycle
+    maintainers:
+    - email: pejman@touca.io
+      name: Pejman Ghorbanzade
+      url: https://github.com/trytouca/trytouca
+    name: touca
+    sources:
+    - https://touca.io
+    - https://github.com/trytouca/trytouca/tree/main/ops/k8s
+    type: application
+    urls:
+    - https://github.com/pluralsh/trytouca/releases/download/touca-1.0.0/touca-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-06-02T16:17:21.272307338Z"
