@@ -5,7 +5,7 @@ remote: origin
 chart-dirs:
   - ops/k8s
 chart-repos:
-  - plural=https://pluralsh.github.io/trytouca
+  - touca=https://pluralsh.github.io/trytouca
 helm-extra-args: "--timeout 600s"  
 validate-chart-schema: false
 validate-maintainers: true
